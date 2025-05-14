@@ -22,7 +22,7 @@ You provide the name of a Pokémon (e.g. `pikachu`, `charizard`), and the app fe
 git clone https://github.com/scottmsoule/pkteffectiveness.git
 cd pkteffectiveness
 ```
-### 1. Run the Console App
+### 2. Run the Console App
 
 ```bash
 dotnet run
