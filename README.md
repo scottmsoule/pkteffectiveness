@@ -8,7 +8,7 @@ You provide the name of a Pokémon (e.g. `pikachu`, `charizard`), and the app fe
 
 ## Tech Stack
 
-- .NET 9
+- .NET 8
 - C#
 - `System.Net.Http`
 - `System.Text.Json`
