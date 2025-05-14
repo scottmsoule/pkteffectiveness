@@ -6,7 +6,7 @@ A simple .NET console app that uses the [PokéAPI](https://pokeapi.co/) to deter
 
 You provide the name of a Pokémon (e.g. `pikachu`, `charizard`), and the app fetches its type(s) from the PokéAPI. It then displays which other types it is strong or weak against based on official Pokémon type effectiveness rules.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - .NET 9
 - C#
