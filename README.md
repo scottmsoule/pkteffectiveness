@@ -28,3 +28,5 @@ cd pkteffectiveness
 dotnet run
 ```
 
+The names Pikachu, Charizard, Metagross, are excellent ones to test with to get a demonstration of the console app working
+
