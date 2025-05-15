@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4C-00C04F79EFBC}") = "pkteffectiveness", "pkteffectiveness.csproj", "{E0251AF8-D3CE-4B8E-B16F-C8283321EB05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PkTEffectiveness.Tests", "PkTEffectiveness.Tests\PkTEffectiveness.Tests.csproj", "{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{E0251AF8-D3CE-4B8E-B16F-C8283321EB05}.Release|x64.Build.0 = Release|Any CPU
 		{E0251AF8-D3CE-4B8E-B16F-C8283321EB05}.Release|x86.ActiveCfg = Release|Any CPU
 		{E0251AF8-D3CE-4B8E-B16F-C8283321EB05}.Release|x86.Build.0 = Release|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Debug|x64.Build.0 = Debug|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Debug|x86.Build.0 = Debug|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Release|x64.ActiveCfg = Release|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Release|x64.Build.0 = Release|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Release|x86.ActiveCfg = Release|Any CPU
+		{9DCB6001-21A9-49EE-90ED-53F3734B1F8B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

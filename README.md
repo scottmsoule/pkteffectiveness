@@ -8,7 +8,7 @@ You provide the name of a Pokémon (e.g. `pikachu`, `charizard`), and the app fe
 
 ## Tech Stack
 
-- .NET 9
+- .NET 8
 - C#
 - `System.Net.Http`
 - `System.Text.Json`
@@ -22,9 +22,11 @@ You provide the name of a Pokémon (e.g. `pikachu`, `charizard`), and the app fe
 git clone https://github.com/scottmsoule/pkteffectiveness.git
 cd pkteffectiveness
 ```
-### 1. Run the Console App
+### 2. Run the Console App
 
 ```bash
 dotnet run
 ```
+
+The names Pikachu, Charizard, Metagross, are excellent ones to test with to get a demonstration of the console app working
 
